@@ -1,4 +1,4 @@
-//diseñar semaforo visualmente que empiece en verde y que a los 10 segundos cambie a ambar y a los 2 segundos y del ambar a rojo a los 10 segundos vuelva a empezar;
+//diseñar semaforo visualmente que empiece en verde y que a los 10 segundos cambie a ambar y a los 3,5 segundos a ambar y rojo a los 2 rojo y a los 10 segundos vuelve a empezar;
 //mientras el verde este activo el resto en negro
 const ambar = document.getElementById('ambar');
 const rojo = document.getElementById('rojo');
