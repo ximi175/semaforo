@@ -24,10 +24,6 @@ body {
   width: 40px;
   background-color: #f30071;
   border-radius: 40px;
-
-  /*  margin: 0; */
-
-  /*   translate: 0 -10px; */
   border: 3px solid rgb(41 38 38);
 }
 
@@ -36,19 +32,13 @@ body {
   width: 40px;
   background-color: black;
   border-radius: 40px;
-
-  /* translate: 0 15px; */
   border: 3px solid rgb(41 38 38);
 }
 
 .rojo {
   height: 40px;
   width: 40px;
-
-  /* margin: 8px; */
   background-color: black;
   border-radius: 40px;
-
-  /*  translate: 0 35px; */
   border: 3px solid rgb(41 38 38);
 }
